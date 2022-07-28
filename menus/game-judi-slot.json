@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle game-judi-slot",
+        "command": "game-judi-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "game-judi-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "game-judi-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
